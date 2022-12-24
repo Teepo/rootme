@@ -1,0 +1,22 @@
+{
+  "name": "quock-response-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Ribeiro",
+  "license": "ISC",
+  "dependencies": {
+    "@zxing/library": "^0.19.1",
+    "canvas": "^2.11.0",
+    "jimp": "^0.16.2",
+    "jsqr": "^1.4.0",
+    "node-fetch": "^3.3.0",
+    "node-html-parser": "^6.1.4",
+    "qrcode-reader": "^1.0.4",
+    "terminal-image": "^2.0.0"
+  }
+}
